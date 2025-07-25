@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "title": "Manzoor Ahmed | MERN Stack Developer",
+    "description": "Portfolio website showcasing product design work and skills"
+  },
+  "personal": {
+    "name": "Manzoor Ahmed",
+    "title": "MERN Stack Developer",
+    "location": "Punjab, Pakistan",
+    "avatar": "/Manzoor.png",
+    "email": "manzoorjam467@gmail.com",
+    "phone": "+92 3186314490",
+    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "availableForWork": true,
+    "badges": ["Web Design", "Website Development", "Prototyping"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/manzoor-coder",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "linkedin.com/in/manzoor-a-b67245263",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#",
+        "icon": "Instagram"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I’m a passionate and detail-oriented MERN Stack Developer with experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in creating responsive, user-friendly frontends and robust, scalable backends. My focus is on delivering clean code, efficient APIs, and intuitive interfaces that enhance user experience and meet client requirements.",
+    "focus": [
+      "Building full-stack web applications using MongoDB, Express.js, React.js, and Node.js",
+      "Developing responsive and intuitive user interfaces with modern React practices",
+      "Designing and integrating RESTful APIs and handling server-side logic using Express.js and Node.js"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native",
+        "level": 80,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Urdu",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Punjabi",
+        "proficiency": "Fluent",
+        "level": 90,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Hindi",
+        "proficiency": "Fluent",
+        "level": 80,
+        "flag": "🇩🇪"
+      }
+    ],
+    "interests": ["Design Systems", "Accessibility", "Typography", "Motion Design", "Photography"]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "MERN Stack Developer",
+      "company": "Cure Logics",
+      "period": "Jun 2025 - Present",
+      "description": "As a MERN Stack Engineer at Cure Logics, I have been deeply involved in building real-world web applications that solve meaningful problems. With a strong grasp of MongoDB, Express.js, React.js, and Node.js, I contribute to the full lifecycle of software development — from designing robust backend APIs to crafting dynamic, responsive front-end interfaces.",
+      "achievements": [
+        "Developing RESTful APIs and integrating third-party services 35%",
+        "Implementing user authentication, authorization, and secure data handling a 25% increase in user retention",
+        "Building modern, responsive UIs using React.js and Tailwind CSS or Bootstrap"
+      ],
+      "technologies": ["React.Js", "Tailwind", "Bootstrap", "Node.Js", "Express.Js", "MongoDB"]
+    },
+    {
+      "title": "React Js Intern",
+      "company": "Promotezz International",
+      "period": "Jun-2024 to Aug-2024",
+      "description": "Collaborated with cross-functional teams to design intuitive and engaging user experiences for various client projects. Created wireframes, prototypes, and high-fidelity designs for web and mobile applications.",
+      "achievements": [
+        "Designed interfaces for 12+ client projects across fintech, healthcare, and e-commerce",
+        "Improved conversion rates by an average of 22% through data-driven design iterations",
+        "Mentored junior designers and facilitated design thinking workshops"
+      ],
+      "technologies": ["React.Js", "Tailwind CSS", "Bootstrap", "Context Api"]
+    },
+    {
+      "title": "UI/UX Intern",
+      "company": "Creative Solutions",
+      "period": "2017 - 2018",
+      "description": "Assisted the design team in creating visual assets and interface components. Participated in brainstorming sessions and contributed to the design of marketing websites and mobile applications.",
+      "achievements": [
+        "Redesigned the company website, improving mobile responsiveness",
+        "Created a component library that streamlined the design process",
+        "Conducted competitive analysis for 5 client projects"
+      ],
+      "technologies": ["Adobe Creative Suite", "HTML/CSS", "Wireframing"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Certified UX Professional",
+        "issuer": "Nielsen Norman Group",
+        "date": "2022",
+        "logo": "/nng-logo.png"
+      },
+      {
+        "name": "Professional Product Designer",
+        "issuer": "Interaction Design Foundation",
+        "date": "2021",
+        "logo": "/generic-military-logo.png"
+      },
+      {
+        "name": "Design Leadership Certification",
+        "issuer": "IDEO",
+        "date": "2020",
+        "logo": "/ideo-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer",
+        "institution": "The Islamia University of Bahawalpur",
+        "year": "2021-2025",
+        "logo": "/iub.png"
+      }
+    ],
+    "skills": [
+      "HTML 5",
+      "CSS 3",
+      "Tailwind CSS",
+      "Bootstrap",
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "MySQL"
+    ]
+  },
+  "technicalSkills": {
+    "design": ["Figma", "Sketch", "Adobe XD", "Illustrator", "Photoshop", "InVision", "Principle", "Framer"],
+    "development": ["HTML/CSS", "JavaScript", "React", "Tailwind", "Bootstrap", "Git", "Responsive Design"],
+    "uxMethods": [
+      "User Research",
+      "Usability Testing",
+      "Wireframing",
+      "Prototyping",
+      "Information Architecture",
+      "User Flows"
+    ],
+    "softSkills": ["Team Leadership", "Project Management", "Client Communication", "Mentoring", "Presentations"]
+  }
+}
